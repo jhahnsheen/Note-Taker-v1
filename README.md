@@ -6,7 +6,7 @@ The Note Taker application is designed for the busy business owner who needs a s
 
 As a web application, there is no need for installation and can be accessed anywhere you have an internet connection. 
 
-You can find the application deployed [here on GitHub Pages](https://jhahnsheen.github.io/Note-Taker-v1/). 
+You can find the application deployed [here on Heroku](https://bksb-note-taker.herokuapp.com/). 
 
 ## Features
 
@@ -18,11 +18,11 @@ The simple and intuitive UI, along with the inoffensive and light color scheme m
 
 Upon opening the app, you will be greeted with a landing page like this: 
 
-![placeholder](image.jpeg)
+![landing page](note_taker.png)
 
 Click the 'Get Stated' button and you will arrive here on the main page. This is where you can see your previous notes, create a new one, or delete them. 
 
-![placeholder](image.jpeg)
+![main page](mainpage.png)
 
 You can select and delete notes on the left selection pane and view notes in the main pane. The header allows you to save a note or to create a new one. 
 
