@@ -5,8 +5,9 @@ const router = require('express').Router();
 const apiRoutes = require('./api');
 const htmlRoutes = require('./html');
 
-// create routes to logic
+// create modular routers
 router.use('/', htmlRoutes);
 router.use('/api', apiRoutes);
 
+// export router to be used in server.js
 module.exports = router;
